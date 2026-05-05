@@ -3,7 +3,7 @@
 This assessment is designed to evaluate your problem-solving skills, coding proficiency, and ability to work across multiple programming domains. Please read the instructions carefully before beginning.
 
 ---
-## 📋 Assessment Overview
+## Overview
 
 - **Duration:** 2 hours
 - **Total Questions:** 3 (covering C, MySQL, and C++)
