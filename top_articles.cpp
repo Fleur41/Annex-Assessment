@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <vector>
 #include <string>
 #include <algorithm>
@@ -67,7 +67,7 @@ std::vector<std::string> topArticles(int limit) {
                     articles.push_back({title, comments});
                 }
             } catch (...) {
-                // Skip malformed responses
+                // I skipped malformed responses
             }
         }
         page++;
